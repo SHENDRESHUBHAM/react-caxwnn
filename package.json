@@ -1,0 +1,26 @@
+{
+  "name": "qp6b31.run",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@progress/kendo-react-buttons": "3.11.0",
+    "@progress/kendo-react-conversational-ui": "3.11.0",
+    "@progress/kendo-react-dateinputs": "3.11.0",
+    "@progress/kendo-react-intl": "3.11.0",
+    "adaptivecards": "^1.2.5",
+    "botframework-directlinejs": "0.11.6",
+    "prop-types": "15.7.2",
+    "react": "16.13.0",
+    "react-dom": "16.13.0",
+    "react-transition-group": "4.3.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "react-scripts": "latest"
+  }
+}
